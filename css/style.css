@@ -27,11 +27,12 @@
     background-color: white;
     border-radius: 5px;
     border-width: thin;
+	border: 1px solid #e1e1e1;
 }
 
 .container2 {
     border: 1px solid #f1f1f1;
-    height: 202px;
+    height: 209px;
     border-radius: 3px;
     padding: 10px 18px;
     background-color: white;
@@ -106,6 +107,7 @@ hr {
     background-color: white;
     border-radius: 5px;
     border-width: thin;
+	border: 1px solid #e1e1e1;
 }
 
 .container4 {
@@ -220,6 +222,7 @@ hr {
     background-color: white;
     border-radius: 5px;
     border-width: thin;
+	border: 1px solid #e1e1e1;
 }
 
 .container8 {
@@ -299,6 +302,7 @@ hr {
     background-color: white;
     border-radius: 5px;
     border-width: thin;
+	border: 1px solid #e1e1e1;
 }
 
 .container10 {
