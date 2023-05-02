@@ -1,0 +1,406 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex_container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.container1 {
+    position: relative;
+}
+
+.option_section>button {
+    margin: 15px 120px;
+    width: 80px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    color: #667284;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 5px;
+    border-width: thin;
+}
+
+.container2 {
+    border: 1px solid #f1f1f1;
+    height: 202px;
+    border-radius: 3px;
+    padding: 10px 18px;
+    background-color: white;
+    box-shadow: 0px 0px 2px #0000009e;
+    position: absolute;
+    top: 29px;
+    right: 120px;
+    display: none;
+}
+
+.hover_section p>a {
+    text-decoration: none;
+    color: #56585b;
+}
+
+.list_section {
+    margin: 15px 0px 0px;
+}
+
+.list_section>ul {
+    line-height: 28px;
+}
+
+.list_section ul>li {
+    list-style: none;
+}
+
+.list_section ul>li a {
+    color: #667284;
+    text-decoration: none;
+    display: inline-block;
+    width: 122px;
+
+}
+
+.signout_section p a {
+    color: #667284;
+    text-decoration: none;
+}
+
+hr {
+    border: 1px solid #f1f1f1;
+    width: 184px;
+    margin: 11px -18px;
+}
+
+.container1:hover .container2 {
+    display: block;
+}
+
+
+
+
+
+
+
+
+.container3 {
+    position: relative;
+}
+
+.option_section1>button {
+    margin: 15px 120px;
+    width: 80px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    color: #667284;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 5px;
+    border-width: thin;
+}
+
+.container4 {
+    border: 1px solid #f1f1f1;
+    border-radius: 3px;
+    padding: 10px 18px;
+    background-color: white;
+    box-shadow: 0px 0px 2px #0000009e;
+    position: absolute;
+    top: 29px;
+    right: 119px;
+    width: 134px;
+    display: none;
+}
+
+.list_section1>ul {
+    line-height: 28px;
+}
+
+.list_section1 ul>li {
+    list-style: none;
+}
+
+.list_section1 ul>li a {
+    color: #667284;
+    text-decoration: none;
+    display: inline-block;
+    width: 122px;
+
+}
+
+.signout_section1 p a {
+    color: #667284;
+    text-decoration: none;
+}
+
+.container3:hover .container4 {
+    display: block;
+}
+
+
+
+
+
+
+.container5 {
+    position: relative;
+}
+
+.option_section2>i {
+    font-size: 17px;
+    color: #667284;
+}
+
+.container6 {
+    border: 1px solid #f1f1f1;
+    border-radius: 3px;
+    padding: 10px 18px;
+    background-color: white;
+    box-shadow: 0px 0px 2px #0000009e;
+    position: absolute;
+    right: 0px;
+    top: 29px;
+    width: 134px;
+    display: none;
+}
+
+.list_section2>ul {
+    line-height: 28px;
+}
+
+.list_section2 ul>li {
+    list-style: none;
+}
+
+.list_section2 ul>li a {
+    color: #667284;
+    text-decoration: none;
+    display: inline-block;
+    width: 122px;
+
+}
+
+.signout_section2 p a {
+    color: #667284;
+    text-decoration: none;
+}
+
+.container5:hover .container6 {
+    display: block;
+}
+
+
+
+
+
+
+.container7 {
+    position: relative;
+}
+
+.option_section3>button {
+    margin: 15px 120px;
+    width: 80px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    color: #667284;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 5px;
+    border-width: thin;
+}
+
+.container8 {
+    border: 1px solid #f1f1f1;
+    border-radius: 3px;
+    background-color: white;
+    box-shadow: 0px 0px 2px #0000009e;
+    position: absolute;
+    right: 119px;
+    top: 29px;
+    width: 175px;
+    display: none;
+}
+
+.list_section3>ul {
+    line-height: 28px;
+    padding: 5px 15px 5px;
+}
+
+.list_section3 ul>li {
+    list-style: none;
+}
+
+.list_section3 ul>li a {
+    color: #667284;
+    text-decoration: none;
+    display: inline-block;
+    width: 122px;
+
+}
+
+.signout_section3 p a {
+    color: #667284;
+    text-decoration: none;
+}
+
+.container7:hover .container8 {
+    display: block;
+}
+
+.flex1 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 9px;
+    font-size: 14px;
+    padding: 0px 12px;
+}
+
+.flex1>i {
+    color: #b5b6b9;
+}
+
+.border1 {
+    border-bottom: 1px solid #667284;
+}
+
+
+
+
+
+
+.container9 {
+    position: relative;
+}
+
+.option_section4>button {
+    margin: 15px 120px;
+    width: 80px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    color: #667284;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 5px;
+    border-width: thin;
+}
+
+.container10 {
+    border: 1px solid #f1f1f1;
+    border-radius: 3px;
+    background-color: white;
+    box-shadow: 0px 0px 2px #0000009e;
+    position: absolute;
+    right: 119px;
+    top: 29px;
+    width: 175px;
+    display: none;
+}
+
+.list_section4>ul {
+    line-height: 28px;
+    padding: 5px 15px 5px;
+}
+
+.list_section4 ul>li {
+    list-style: none;
+}
+
+.list_section4 ul>li a {
+    color: #667284;
+    text-decoration: none;
+    display: inline-block;
+    width: 143px;
+
+}
+
+.signout_section4 p a {
+    color: #667284;
+    text-decoration: none;
+}
+
+.container9:hover .container10 {
+    display: block;
+}
+
+.border1 {
+    border-bottom: 1px solid #667284;
+}
+
+
+
+
+
+
+
+
+.image_container {
+    font-family: 'Mulish', sans-serif;
+    width: 1102px;
+    margin: 155px auto;
+    padding: 103px 103px 55px;
+    border-radius: 25px;
+    background: radial-gradient(ellipse at bottom, rgb(67, 41, 86), rgb(17 24 40) 60%);
+    background-color: ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content_section {
+    color: white;
+    text-align: center;
+}
+
+.content_section>h1 {
+    margin-bottom: 10px;
+    margin-bottom: 10px;
+    font-size: 31px;
+}
+
+.content_section>p {
+    padding: 0px 23px;
+    width: 503px;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.box_section {
+    margin: 42px 0px;
+}
+
+.box_section>input {
+    width: 257px;
+    border-radius: 5px;
+    background-color: transparent;
+    border: 1px solid #948d8d;
+    outline: none;
+    padding: 10px;
+    color: white;
+}
+
+.box_section>button {
+    margin: 0px 7px;
+    border-radius: 5px;
+    background-color: white;
+    border: 1px solid #ffffff;
+    outline: none;
+    padding: 10px;
+    font-weight: 600;
+}
