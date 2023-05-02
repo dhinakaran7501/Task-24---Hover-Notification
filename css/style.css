@@ -40,6 +40,7 @@
     position: absolute;
     top: 29px;
     right: 120px;
+	width:200px;
     display: none;
 }
 
@@ -75,7 +76,7 @@
 
 hr {
     border: 1px solid #f1f1f1;
-    width: 184px;
+    width: 199px;
     margin: 11px -18px;
 }
 
@@ -119,7 +120,7 @@ hr {
     position: absolute;
     top: 29px;
     right: 119px;
-    width: 134px;
+    width: 200px;
     display: none;
 }
 
@@ -171,7 +172,7 @@ hr {
     position: absolute;
     right: 0px;
     top: 29px;
-    width: 134px;
+    width: 200px;
     display: none;
 }
 
@@ -233,7 +234,7 @@ hr {
     position: absolute;
     right: 119px;
     top: 29px;
-    width: 175px;
+    width: 200px;
     display: none;
 }
 
@@ -313,7 +314,7 @@ hr {
     position: absolute;
     right: 119px;
     top: 29px;
-    width: 175px;
+    width: 200px;
     display: none;
 }
 
